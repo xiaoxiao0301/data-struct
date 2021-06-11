@@ -1,0 +1,16 @@
+{
+  "name": "data-struct/muku",
+  "description": "数据结构与算法",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "v_xxiaoji",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "phpunit/phpunit": "^9.5",
+    "ext-mbstring": "*"
+  }
+}
